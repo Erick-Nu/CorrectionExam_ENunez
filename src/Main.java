@@ -66,5 +66,6 @@ public class Main {
         double areaTri = cuadradoA.areaCuadrado();
         double sumAreas = (areaCua+areaRec+areaCir+areaTri);
         System.out.println(" >> La suma de las areas es: " + Math.round(sumAreas));
+        // Revisando el estado de los commit
     }
 }
